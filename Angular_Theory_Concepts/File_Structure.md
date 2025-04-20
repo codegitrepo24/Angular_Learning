@@ -87,3 +87,7 @@ my-app/
 - `tsconfig.*.json` controls TypeScript behavior for different purposes.
 - `README.md` helps new developers understand the project.
 
+
+***TO-DO***
+
+Learn about Interpolation
